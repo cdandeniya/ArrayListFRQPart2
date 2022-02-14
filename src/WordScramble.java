@@ -15,7 +15,7 @@ public class WordScramble
      */
     public static String scrambleWord(String word)
     {
-        /* to be implemented in part (a) */
+        return "";
     }
 
     /** Modifies wordList by replacing each word with its scrambled
